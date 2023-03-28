@@ -1,0 +1,166 @@
+
+.header {
+min-height: 650px;
+background: #8000FF;
+}
+
+.container {
+max-width: 1200px;
+margin: 0 auto;
+padding: 0 15px;
+}
+
+.container_flex {
+display: flex;
+justify-content: space-between;
+padding: 30px 0px;
+}
+
+.ul {
+display: flex;
+align-items: center;
+gap: 31px;
+}
+.ul_item {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 21px;
+color: #DDDDDD;
+}
+
+.ul_item-link {
+color: #DDDDDD;
+}
+
+.ul_item_link-arrow {
+padding-top: 7px;
+}
+
+.ul_icon-Magnifier {
+padding-right: 20px;
+}
+
+.ul_icon-line {
+padding-top: 3px;
+}
+
+.ul_icon-basket {
+padding-left: 22px;
+padding-right: 25px;
+}
+
+.button {
+width: 140px;
+height: 40px;
+background: #EE0034;
+}
+
+.button_p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: #FFFFFF;
+}
+
+.button_burger {
+    display: none;
+}
+
+.header_img {
+position: relative;
+}
+
+.header_img-picture {
+position: absolute;
+}
+
+
+
+.header_img-flex {
+display: flex;
+position: absolute;
+padding-top: 139px;
+padding-left: 30px;
+}
+.header_img_flex-icon {
+padding-right: 14px;
+}
+.header_img_flex_icon-p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;   
+color: #888888;
+}
+
+.header_img-Caption {
+position: absolute;
+padding-top: 161px;
+padding-left: 28px;
+}
+
+.header_img_Caption-h1 {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 62px;
+line-height: 120%; 
+text-transform: uppercase;
+color: #000000;
+}
+
+.header_img_Caption_h1-p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 140%;
+color: #888888;
+padding-top: 20px;
+}
+
+.header_img-buttonflex {
+display: flex;
+position: absolute;
+padding-top: 40px;
+}
+
+.header_img_buttonflex-but {
+width: 180px;
+height: 50px; 
+background: #EE0034;  
+}
+.header_img_buttonflex_but-p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 140%;
+color: #FFFFFF;
+}
+
+.header_img_buttonflex_but_p-circle {
+display: flex;
+padding-left: 25px;   
+}
+
+.header_img_buttonflex_but_p_circle-text {
+align-items: center;
+}
+
+.header_img_buttonflex_but_p_circle_text-p2 {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 140%;
+color: #EE0034;
+padding-left: 14px;
+padding-top: 13px;
+}
+

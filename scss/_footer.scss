@@ -1,0 +1,57 @@
+
+ .footer {
+ min-height: 468px;
+ background: #151515;
+ }
+
+ .footer_container_contacts {
+    padding-top: 100px;
+    text-align: center;
+ }
+
+.footer_container_contacts-p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 75px;
+text-align: center;
+color: aliceblue;
+}
+
+.footer_container_contacts_p-p2 {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+color: aliceblue;
+padding-top: 20px;
+padding-bottom: 40px;
+}
+
+.footer_button {
+width: 120px;
+height: 40px;
+background: #EE0034;
+}
+.footer_button-p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.footer_Socials {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 60px;
+    margin-bottom: 40px;
+}
+
